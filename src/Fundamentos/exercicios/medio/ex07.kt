@@ -1,2 +1,0 @@
-package Fundamentos.exercicios.medio
-
